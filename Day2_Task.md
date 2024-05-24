@@ -1,4 +1,4 @@
-# Understanding the Difference Between Window and Document Objects in JavaScript
+# 1. Understanding the Difference Between Window and Document Objects in JavaScript
 
 ## The Window Object
 The window object is the global object in the browser environment. It represents the window in which the web page is displayed. Every web page loaded in the browser has its own instance of the window object. Here are some important aspects of the window object:
