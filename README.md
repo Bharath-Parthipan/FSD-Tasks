@@ -6,4 +6,4 @@
 3. Read about IP address, port, HTTP methods, MAC address.
 
 ## Day2-Task
-1.Write a blog on the difference between docunment and window object.
+1. Write a blog on the difference between docunment and window object.
