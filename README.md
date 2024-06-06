@@ -8,7 +8,7 @@
 ## Day2-Task
 1. Write a blog on the difference between docunment and window object.
 
-## Day3-Tasl
+## Day3-TasK
 1. How to compare two JSON have the same properites without order ? <br/>
     a. let obj1 = {name: "person1", age: 5};<br/>
     b. let obj2 = {age: 5, name: "person1"};
@@ -16,3 +16,21 @@
 2. Use the rest contries'API URL -> https://restcountries.com/v3.1/all and display all the country flags in the console.
 
 3. Use the same rest countries and print all countries name, regions, sub_regions, and populations.
+
+## Day4-Task
+1. Do the below programs in anonymous function & IFFE <br>
+     a. Print odd numbers in an array<br>
+     b. convert all string to title case in string array<br>
+     c. sum of all numbers in an array<br>
+     d. Return all the prime numbers in an array<br>
+     e. Return all the palindromes in an array<br>
+     f. Return median of two sorted array of the same size<br>
+     g. Remove duplicates from an array<br>
+     h. Rotate an array by k times 
+
+2. Do the below programs in arrow function <br>
+     a. Print odd numbers in an array<br>
+     b. convert all string to title case in string array<br>
+     c. sum of all numbers in an array<br>
+     d. Return all the prime numbers in an array<br>
+     e. Return all the palindromes in an array
