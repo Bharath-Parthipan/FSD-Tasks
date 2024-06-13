@@ -34,3 +34,7 @@
      c. sum of all numbers in an array<br>
      d. Return all the prime numbers in an array<br>
      e. Return all the palindromes in an array
+
+## Day5-Task
+1. Create your own resume data in JSON Format
+2. For the above JSON, iterate over all for loops (for, for in, for of, forEach)

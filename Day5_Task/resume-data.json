@@ -1,0 +1,51 @@
+{
+  "name": "Bharath",
+  "job_title": "Full-Stack Developer",
+  "location": ["Bangalore","Chennai","Coimbatore"],
+  "email": "bharathps00624@gmail.com",
+  "phone": "+91 9360761275",
+  "objective": "Seeking a Full-Stack Developer role to apply and extend my 2-years of experience in coding and problem-solving, Contributing to innovative projects and achieving excellence in Full-Stack Development.",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "Angular",
+    "Nest.js",
+    "Swagger",
+    "MySql",
+    "MySql WorkBench"
+  ],
+  "experience": [
+    {
+      "title": "Full-Stack Developer",
+      "company": "GetSter.Tech Pvt Ltd.",
+      "location": "Hosur",
+      "dates": "2022 - 2024",
+      "description": "Experienced Full-Stack Developer at GETster.TECH Pvt Ltd with 2-years of hands-on experience. Proficient in Angular, NestJS, and MySQL for robust Web Applications. Specialized in Angular-17 Server-Side-Rendering (SSR) and dynamic Scheduling.Developed Progressive Web Application using Angular, Tailwind CSS, and Animate.css Library Adept in client-side framework for caching, reusable components, and utilizing technologies like jsPDF and File Saver for efficient file handling."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc.computer Science",
+      "institution": "Sacred Hearts College",
+      "location": "Tirupattur, Tpt-Dt",
+      "dates": "2019 - 2022"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Tamil",
+      "proficiency": "Native"
+    },
+    {
+      "name": "English",
+      "proficiency": "Nan"
+    }
+  ],
+  "interests": [
+    "Full-stack Developer",
+    "Machine Learning",
+    "Artificial Intelligence"
+  ]
+}
