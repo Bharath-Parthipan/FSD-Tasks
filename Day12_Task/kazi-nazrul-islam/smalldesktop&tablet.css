@@ -1,0 +1,26 @@
+/* Styles for small desktops and tablets (min-width: 768px) */
+@media (min-width: 768px) {
+    .first-content {
+        height: 500px;
+        width: 100%;
+    }
+
+    .second-content {
+        width: 100%;
+        height: auto;
+        padding: 0px 60px;
+    }
+
+    .third-content {
+        height: 70px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .third-content-text {
+        margin-top: 5px;
+        font-size: 16px !important;
+    }
+}

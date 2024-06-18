@@ -1,0 +1,51 @@
+/* Styles for large desktops (min-width: 1024px) */
+@media (min-width: 1024px) {
+    .first-content {
+        height: 100vh;
+        width: 100%;
+    }
+
+    .second-content {
+        width: 100%;
+        height: auto;
+        padding: 0px 40px;
+    }
+
+    .fourth-content-cards {
+        height: auto;
+        width: 100%;
+        padding: 0px 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+        margin: 40px 0px;
+    }
+
+    .fourth-content-secondCards {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .fourth-content-secondCards-wrapper {
+        height: 100%;
+        display: flex;
+        gap: 60px;
+    }
+
+    .fourth-content-secondCards-width {
+        width: 450px;
+    }
+
+    .footer-container{
+        height: 100%;
+        width: 100%;
+        padding: 40px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

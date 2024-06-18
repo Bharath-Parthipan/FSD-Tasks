@@ -79,3 +79,9 @@
      C. Print the following details name, capital, flag, using forEach method <br>
      d. Print the total population of countries using reduce method <br>
      e. Print the country that uses US dollars as currency
+
+## Day12-Task Frontend Design
+
+1. OBESITY CHILDHOOD STATISTICS ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day12_Task/obesity-childhood-statistics/index.html).
+
+2. kAZI NAZRUL ISLAM ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day12_Task/kazi-nazrul-islam/index.html).

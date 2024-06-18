@@ -1,0 +1,67 @@
+/* Styles for extra large desktops (min-width: 1200px) */
+@media (min-width: 1200px) {
+    .nav-width {
+        width: 65% !important;
+    }
+
+    .first-content {
+        height: 700px;
+        width: 100%;
+    }
+
+    .second-content {
+        height: 750px;
+        width: 100%;
+        padding: 0px 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .second-content-about {
+        height: 88%;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 180px;
+    }
+
+    .second-content-firstText {
+        width: 500px;
+        height: auto;
+    }
+
+    .second-content-secondText {
+        width: 500px;
+        height: auto;
+    }
+
+    .second-content-img {
+        width: 300px;
+        height: auto;
+    }
+
+    .second-content-button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .third-content {
+        height: 100px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .third-content-text {
+        margin-top: 8px;
+        font-size: 24px !important;
+    }
+
+    .fourth-content-secondCards-width {
+        width: 500px;
+    }
+}
