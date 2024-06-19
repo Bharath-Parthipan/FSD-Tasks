@@ -85,3 +85,31 @@
 1. OBESITY CHILDHOOD STATISTICS ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day12_Task/obesity-childhood-statistics/index.html).
 
 2. kAZI NAZRUL ISLAM ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day12_Task/kazi-nazrul-islam/index.html).
+
+## Day15-Task
+
+1. Problem statement " DOM MANIPULATION WITH FORM ".
+     * Create a form and table using HTML, CSS and DOM.
+     * The form should contain the following field.
+     * First name, last name, Email, address, pincode, gender, choice of food(must choose at least 2 out of 5 options), state, country.
+     * On submission of the form values, the values must be appended to the table.
+     * The columns of the table must contain First name, last name, Email, address, pincode, gender, food, state, country.
+     * Clear the form fields after updating the record in the table.
+     * Include the test suite in your html file which is given below.
+
+     Result : Task Completed ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day15_Task/html-forms/index.html).
+
+
+2. Problem statement " CALCULATE TASK"
+     * Create a calculator using DOM.
+     * Use Keyboard events only for numbers.
+     * When any keys pressed other than number keys show an alert warning "Only numbersare allowed".
+     * Add functions to perform addition, subtraction, division, multiplication and modulus.
+     * The calculator must handle infix expressions.
+     * Use DOM to create html elements
+     * For styles you can use ess and bootstrap. UI should be responsive for all media screens.
+     * Include the test suite in your html file which is given below..
+
+     Optional: Implement calculator operations of (M+, M-. MC) memory based functionalities using the localstorage.
+
+     Result : Task Completed ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day15_Task/calculator/index.html).
