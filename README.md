@@ -151,3 +151,28 @@
           * Country codes
 
      Result : Task Completed ["view site"](https://bharath-parthipan.github.io/FSD-Tasks/Day17_Task/index.html).
+
+## Day20-Task Promise Task
+
+1. From the below URL use any 3 API to implement the tasks with listed below constraints https://github.com/public-apis/public-apis
+
+     Constraints:
+
+     * UI should be responsive & look and feel
+     * Use Promise to retrieve data & display the necessary things on the webpage.
+     * Your project/task should obtain the maximum code quality as below
+
+          * Proper variable & function names
+          * Use of catch for the fetch
+          * Should not use any deprecated tags
+          * Should avoid inline styles
+          * Should use only class selectors
+          * Proper open & close of HTML tags
+          * Comments/description of the function logic
+          * Your task project should follow code reusability
+
+     * USE ONLY HTML,CSS, BOOTSTRAP. & JAVASCRIPT
+
+     Result : api1 Bear Pictures Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/bearpictures/).
+     Result : api2 http Status Cats Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatuscat/).
+     Result : api3 http status dogs Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatusdog/).
