@@ -55,3 +55,14 @@ function init() {
 
 // Initialize the app when the window loads
 window.onload = init;
+
+
+
+function getUrl() {
+  // Get the input value
+  var inputValue = document.getElementById('urlInput').value;
+
+  // Set the href attribute of the anchor element
+  var link = document.getElementById('myLink');
+  link.href = inputValue;
+}

@@ -5,12 +5,13 @@
 function fetchBearPictures() {
   // Simulating an array of bear pictures from the API
   const bearPictures = [
-    "https://placebear.com/300/200",
-    "https://placebear.com/400/300",
-    "https://placebear.com/500/400",
-    "https://placebear.com/600/500",
-    "https://placebear.com/700/600",
-    "https://placebear.com/800/700",
+    "https://placebear.com/g/500/250",
+    "https://placebear.com/g/350/250",
+    "https://placebear.com/g/300/250",
+    "https://placebear.com/g/400/250",
+    "https://placebear.com/g/200/250",
+    "https://placebear.com/g/200/150",
+
   ];
   return new Promise((resolve) => {
     resolve(bearPictures);
@@ -35,16 +36,17 @@ function renderBearPictures(pictures) {
  * @returns {HTMLElement} The card element containing the bear picture.
  */
 function createCard(pictureUrl) {
+  let parts = pictureUrl.split("/"); // Split the URL by '/'
+  let width = parts[4];       // The width is the 5th element (index 4)
+  let height = parts[5];
   const cardDiv = document.createElement("div");
-  cardDiv.className = "card";
-  cardDiv.style.width = "18rem";
-  cardDiv.style.padding = "0px";
-  cardDiv.style.height = "100%";
+  cardDiv.style.width = `${width}px`;
+  cardDiv.style.height = `${height}px`;
     
 
-  const cardBody = `
-        <img src="${pictureUrl}" class="card-img-top" alt="Bear Picture">
-    `;
+  const cardBody = `<img src="${pictureUrl}" class="card-img-top" alt="Bear Picture">`;
+
+  console.log(pictureUrl);
 
   cardDiv.innerHTML = cardBody;
   return cardDiv;
@@ -65,3 +67,12 @@ function init() {
 
 // Initialize the app when the window loads
 window.onload = init;
+
+function getUrl() {
+  // Get the input value
+  var inputValue = document.getElementById("urlInput").value;
+
+  // Set the href attribute of the anchor element
+  var link = document.getElementById("myLink");
+  link.href = inputValue;
+}

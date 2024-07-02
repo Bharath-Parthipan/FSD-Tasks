@@ -1,7 +1,26 @@
 body {
     margin: 0px;
     padding: 0px;
+    height: 100vh;
+    width: 100%;
+    background-color: palegreen !important;
     font-family: Arial, sans-serif;
+}
+
+.orginal {
+    height: 100%;
+    width: 100%;
+}
+
+input {
+    width: 80%;
+    border: unset;
+    outline: unset;
+}
+
+.an {
+    color: white;
+    text-decoration: none;
 }
 
 #data-container {

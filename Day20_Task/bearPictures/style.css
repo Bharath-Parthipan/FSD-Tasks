@@ -12,3 +12,47 @@ body {
     margin: 10px;
     width: 18rem;
 }
+
+.wittgenstein-font{
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    font-size: 65px;
+}
+.bg-gray{
+    color: white;
+    background-color: rgb(80, 80, 80);
+    padding: 5px 20px;
+}
+.an-color{
+    color: lawngreen;
+    text-decoration: none;
+}
+
+.btn-and-input{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input {
+    width: 50%;
+    border: 1px solid gray;
+    padding: 4px 10px;
+    margin: 5px 0px !important; 
+}
+
+.an {
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.btn-style{
+    border: unset;
+    background-color: lawngreen;
+    padding: 7px 20px;
+    border-radius: 50px;
+}
