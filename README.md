@@ -173,6 +173,7 @@
 
      * USE ONLY HTML,CSS, BOOTSTRAP. & JAVASCRIPT
 
-     Result : api1 Bear Pictures Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/bearpictures/).
-     Result : api2 http Status Cats Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatuscat/).
-     Result : api3 http status dogs Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatusdog/).
+     Result : 
+     * api1 Bear Pictures Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/bearpictures/). <br>
+     * api2 http Status Cats Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatuscat/). <br>
+     * api3 http status dogs Completed ["view site"](https://bharath-fsd-tasks.netlify.app/day20_task/httpstatusdog/).
